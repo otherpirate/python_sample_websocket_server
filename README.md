@@ -9,6 +9,9 @@ You can use the "Simple WebSocket Client" app to test.
 https://chrome.google.com/webstore/detail/simple-websocket-client/pfdhoblngboilpfeibdedpjgfnlcodoo
 
 Soon as possible I will post a code to connect with:
+
 Browser: JavaScript + HTML
+
 Android: Java
+
 iOS: Swift
